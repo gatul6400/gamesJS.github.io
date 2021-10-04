@@ -1,0 +1,28 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.square{
+    width: 200px;
+    height: 200px;
+    border: solid black;
+}
+
+.grid{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: center;
+    /* align-items: center; */
+    align-content: center;
+    height: 720px;
+    width: 720px;
+    /* margin-left: 205px; */
+}
+
+.mole{
+    background-image: url('../images/mole.jpg');
+    background-size: cover;
+}
+

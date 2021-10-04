@@ -1,5 +1,5 @@
 # Memory Game
- - Memory Game Sharp your memory by remembering the cards
+ Memory Game Sharp your memory by remembering the cards
 
 # Rules of Memory Game
  - You will start by flipping over one card
